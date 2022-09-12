@@ -17,7 +17,10 @@ body{
 
 header{
     grid-area: header;
-    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 100px;
 }
 main{
     grid-area: main;
