@@ -28,5 +28,6 @@ main{
 }
 footer{
     grid-area: footer;
-    background-color: greenyellow;
+    display: flex;
+    gap: 2px;
 }
