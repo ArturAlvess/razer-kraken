@@ -1,7 +1,7 @@
 # Headphone Razer Kraken BT Purple
 
 ![](./img/screenshot.png)
-
+[Clique aqui](https://arturalvess.github.io/razer-kraken/) para acessar o site.
 ---
 
 ## Sobre -
